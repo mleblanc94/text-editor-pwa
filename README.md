@@ -1,25 +1,27 @@
 # text-editor-pwa
-An API for a social network web application where users can share thoughts, react to their friends thoughts, and create a friends list of their own
+A Progressive Web Application text editor.
 
 ## Description
 
 - I was motivated to create this application because it was a great opportunity to learn all about creating Progressive Web Apps. Progressive Web Apps were a brand new concept for me so it was interesting to learn about and be able to build something new.
-- I created this project to work on my MongoDB, Express.js, and Javascript skills. I think this was a great way for me to get familiar with the more professional and standard way of completing these projects.
-- By creating this application, I solved the problem of creating a backend that allows for relationships between two things on a blog site.
-- Through doing this activity, I learned more about using MongoDB and plan to keep building projects to build on my knowledge!
-
+- I created this project to work on Progressive Web Application and deployment skilsl. I think this was a great way for me to get familiar with the way progressive web applications are created, which was a great opportunity for me to do so.
+- By creating this application, I solved the issue of learning how Progressive Web Applications work.
+- Through doing this activity, I learned more about using Progressive Web Applications and was able to see their use in real world applications!
 ## Installation
 
 - In order to use this application, the user will need to have access to the command line.
-- Once they are in the command line, they will need to cd into the social-network-mongodb folder.
+- Once they are in the command line, they will need to cd into the text-editor-pwa folder.
 - Once in the folder, the user will have to run npm start in the command line.
-- From there, the user will be able to use Insomnia to use the routes created through Mongoose
+- From there, the webpack will create the dist folder that generates a PWA.
 
 ## Usage
 
-video walkthrough of the project: [https://drive.google.com/file/d/1XY6a12T8sKlfVoLs5T7ntBgG2o50MI3i/view](https://drive.google.com/file/d/1tLvp5dF2L54S3-Cq1RmXSENeAFgbpfcJ/view)
+- Screenshots of the application:
+![image](https://github.com/mleblanc94/text-editor-pwa/assets/60248680/aef5f859-5067-41c3-9f44-28d1243d64bf)
 
-- When the user enters in the routes in Insomnia described in the video, they will be allowed to read, update, add, or delete to the different tables that have been created to contain a social network site.
+- Link to the deployed application:
+https://text-editor-pwa-l6dx.onrender.com/
+
 ## Credits
 
 N/A
